@@ -1,16 +1,6 @@
 ##Data Science Resources
 
-Hello and welcome to the Data Science Resources repo.  I originally built this repo so that I could have a location to host resources that are helpful to me.  Through building the repo I realized that other people might be also be interested in this content - so I have tried to curate content on data science topics, high quality resources to learn from, and relevant blog posts.  
-
-The intended goal was to cover more than just the technical component  of data science.  Data Science as a discipline is still relatively fresh and many business are learning how to properly integrate and structure those teams and also proper understanding the value proposition that data science can provide.
-
-As a result I also tried to find topics that cover building data science teams, business practices, use-cases, product metrics and data science career paths.  
-
-This is a constant work in progress and I hope to refactor and update in some kind of meaningful time frame.
-
-If you find this resource helpful - please send it around to other people or you can [upvote it on datatau](http://www.datatau.com/item?id=4593), share it on linkedIn, twitter, Facebook, add it to Quora or just send me a note.   Good luck, I hope this helps you find what you are looking for now, or in the future.
-
-Remember - If you’re not prepared to be wrong, you’ll never come up with anything original.
+"If you’re not prepared to be wrong, you’ll never come up with anything original."
 
 #Table Of Contents
 1. [Data Science Getting Started](#data-science-getting-started)
@@ -60,9 +50,8 @@ Remember - If you’re not prepared to be wrong, you’ll never come up with any
 1. [About Me](#about-me)
 
 ## Data Science Getting Started
-Data Science is a multidisciplinary field covering at the very minimum - statistics, programming, machine learning [Drew Conway's venn diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) or [Cheat Sheet of a Modern Data Scientist](http://www.marketingdistillery.com/2014/08/30/data-science-skill-set-explained/).  These topics are covered throughout this repo.  I personally find the best way to learn a topic is to get my hands dirty quickly - with that in mind I would get to work in python and then implement different tools or theory into my toolkit as they are understood.  If you haven't used python before I would strongly urge you to use the codecademy course to familiarize yourself with the content and how to program.  Good luck and have fun.
+Data Science is a multidisciplinary field covering at the very minimum - statistics, programming, machine learning [Drew Conway's venn diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) or [Cheat Sheet of a Modern Data Scientist](http://www.marketingdistillery.com/2014/08/30/data-science-skill-set-explained/).  
 
-A note about order - I framed the contents in the Pipeline & Tools section order of the data pipeline starting with acquisition, exploratory data analysis, cleaning data, model section & evaluation and then visualization.
 
 ### Start
 * [Data Science Pipeline](http://machinelearningmastery.com/wp-content/uploads/2014/05/Overview-of-the-Applied-Machine-Learning-Process.png) - Detailed overview of data pipeline from MachineLearningMastery.com
@@ -421,19 +410,4 @@ There are some really great resources linked within this section covering all of
 * [iterm2](http://iterm2.com/) - Terminal application for Mac.
 * [Oh My Zsh](http://ohmyz.sh/) - Framework for managing your ZSH config.  Awesome.
 * [Sublime Text Editor](http://www.sublimetext.com/) - For all your scripting needs.
-
-## ABOUT ME
-
-I am currently working at an advanced energy storage start-up called Stem which is at the heart of revolutionizing how the grid integrates energy storage from a consumer and utility perspective.  Our team works on a variety of different engineering challenges in particular, a lot of time-series problems.
-
-I am a chemical engineer and economist by formal education and have worked in the energy, water and carbon industries ever since college. I acquired my data science code skills through programming in an on-the-job environment and then taking three months off to learn to hone my data science skills @ Zipfian Academy (since acquired by Galvanize).  For me taking that time off to learn, run the daily/weekly sprints, and be in a collective learning environment at Zipfian was irreplaceable.  Even if all of Zipfian resources were open source, without taking the time off work it would have been next to impossible to learn all that content.  Not to mention the great people I met through the program.  
-
-I am always interested to hear what other data scientists are up to, especially those in the clean energy industry. If you have some project ideas or other resources that would be great to add here - feel free to reach out on Twitter [@sf_oak](http://bit.ly/1FefepA), [LinkedIn](http://linkd.in/1vp57dk) or [AngelList](https://angel.co/jonathan-bower).  
-
-
-
-
-
-
-[![Analytics](https://ga-beacon.appspot.com/UA-50532302-5/jonathan-bower/DataScienceResources?pixel)](https://github.com/igrigorik/ga-beacon)
 
